@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-multipart
+opencv-python-headless
+numpy
+Pillow
+ultralytics
+# bytetrack  # Uncomment when ByteTrack is available
+python-dotenv
+aiofiles
