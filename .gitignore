@@ -113,3 +113,9 @@ logs/
 *.temp
 */tmp/*
 */temp/*
+# Output directories (large files)
+backend/outputs/
+backend/uploads/
+backend/pothole_kaggle_training/*.pt
+backend/pothole_kaggle_training/*.pth
+backend/pothole_kaggle_training/*.ckpt
